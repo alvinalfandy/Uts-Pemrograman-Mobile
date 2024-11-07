@@ -1,5 +1,5 @@
 # Resep Sehat
-![image](Gambar/logo.jng)
+![image](Gambar/logo.jpg)
 
 
 Resep Sehat adalah aplikasi berbasis Android yang memungkinkan pengguna untuk mencari, menambahkan, dan menyimpan resep masakan sehat. Aplikasi ini menyediakan berbagai resep dengan kategori yang dapat disaring, serta memungkinkan pengguna untuk menambahkan resep favorit ke daftar favorit untuk diakses kembali dengan mudah.
