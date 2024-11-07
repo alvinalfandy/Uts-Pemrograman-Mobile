@@ -1,3 +1,14 @@
+# Profil
+
+| **Nama**           | Alvin Alfandy           |
+|--------------------|-------------------------|
+| **Kelas**          | TI.23.A5                |
+| **NIM**            | 312310473               |
+| **Mata Kuliah**    | Pemrograman Mobile      |
+| **Dosen**          | Donny Maulana, S.Kom., M.M.S.I |
+
+
+
 # Resep Sehat
 <img src="Gambar/logo.jpg" alt="Logo" width="200"/>
 
